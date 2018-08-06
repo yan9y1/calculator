@@ -1,0 +1,1 @@
+Uic'ing Calculator.ui...;F:\Qt-msvc\Qt5.8\5.8\msvc2015_64\bin\uic.exe;"C:\Users\YY\Desktop\2017229056_杨毅_Calculator\源代码_杨毅_2017229056\Calculator\Calculator.ui" -o ".\GeneratedFiles\ui_Calculator.h"

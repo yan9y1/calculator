@@ -1,0 +1,8 @@
+﻿  Uic'ing Calculator.ui...
+  Calculator.cpp
+  main.cpp
+  moc_Calculator.cpp
+  qrc_Calculator.cpp
+c:\users\yy\desktop\2017229056_杨毅_calculator\源代码_杨毅_2017229056\calculator\calculator.cpp(193): warning C4715: 'Calculator::optPriority': not all control paths return a value
+c:\users\yy\desktop\2017229056_杨毅_calculator\源代码_杨毅_2017229056\calculator\calculator.cpp(211): warning C4715: 'Calculator::calculateExp': not all control paths return a value
+  Calculator.vcxproj -> C:\Users\YY\Desktop\2017229056_杨毅_Calculator\源代码_杨毅_2017229056\x64\Release\Calculator.exe
